@@ -6,9 +6,9 @@ import CodeSnippetWrapper from './CodeSnippetWrapper'
 
 const Installation = () => {
     const snippetPath = [
-        "src/components/installation/html-snippet.html",
-        "src/components/installation/chatbot-iframe.tsx",
-        "src/components/installation/layout-code.tsx",
+        "@/components/installation/html-snippet.html",
+        "@/components/installation/chatbot-iframe.tsx",
+        "@/components/installation/layout-code.tsx",
     ]
   return (
     <div className="flex flex-col gap-10 md:ml-20">
